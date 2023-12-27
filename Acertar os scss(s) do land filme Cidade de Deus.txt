@@ -1,0 +1,2 @@
+Acertar os scss(s) do land filme exercício 21:
+main.scss, hero.scss e plans.scss 
